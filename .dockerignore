@@ -1,0 +1,11 @@
+venv
+env
+.git
+db.sqlite3
+.idea
+.vscode
+.env
+*.log
+*.tmp
+tests/
+test/
